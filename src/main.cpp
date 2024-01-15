@@ -3,5 +3,5 @@
 using namespace std;
 
 int main(int argc, patal** argv){
-    cout << "patal war machine" << endl;
+    cout << "patal war machines" << endl;
 }
